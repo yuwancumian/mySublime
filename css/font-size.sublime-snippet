@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+font-size: ${1};
+]]></content>
+	<tabTrigger>fs</tabTrigger>
+	<scope>source.css,source.less,source.scss</scope>
+</snippet>
